@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Alpaka11
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning c++ and python
+- 📫 How to reach me: radustefand@yahoo.com
